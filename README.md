@@ -1,24 +1,24 @@
 UAS Pengolahan Citra Digital
 
-Nama
+Nama :
 Farhan Salim Idrus
 
-NIM
+NIM :
 202431112
 
-Kelas
+Kelas :
 C
 
-Judul Project
+Judul Project :
 Geometrix Citra
 
-Library yang digunakan
+Library yang digunakan :
 - Python
 - OpenCV
 - NumPy
 - Matplotlib
 
-Hasil Transformasi
+Hasil Transformasi :
 - Original Image
 - Rotated Image
 - Resized Image
